@@ -1,0 +1,14 @@
+D:\RFP\SnakeAndLadder\PlayerStartPosition\PlayerStartPosition\bin\Debug\netcoreapp3.1\PlayerStartPosition.exe
+D:\RFP\SnakeAndLadder\PlayerStartPosition\PlayerStartPosition\bin\Debug\netcoreapp3.1\PlayerStartPosition.deps.json
+D:\RFP\SnakeAndLadder\PlayerStartPosition\PlayerStartPosition\bin\Debug\netcoreapp3.1\PlayerStartPosition.runtimeconfig.json
+D:\RFP\SnakeAndLadder\PlayerStartPosition\PlayerStartPosition\bin\Debug\netcoreapp3.1\PlayerStartPosition.runtimeconfig.dev.json
+D:\RFP\SnakeAndLadder\PlayerStartPosition\PlayerStartPosition\bin\Debug\netcoreapp3.1\PlayerStartPosition.dll
+D:\RFP\SnakeAndLadder\PlayerStartPosition\PlayerStartPosition\bin\Debug\netcoreapp3.1\PlayerStartPosition.pdb
+D:\RFP\SnakeAndLadder\PlayerStartPosition\PlayerStartPosition\obj\Debug\netcoreapp3.1\PlayerStartPosition.csproj.AssemblyReference.cache
+D:\RFP\SnakeAndLadder\PlayerStartPosition\PlayerStartPosition\obj\Debug\netcoreapp3.1\PlayerStartPosition.GeneratedMSBuildEditorConfig.editorconfig
+D:\RFP\SnakeAndLadder\PlayerStartPosition\PlayerStartPosition\obj\Debug\netcoreapp3.1\PlayerStartPosition.AssemblyInfoInputs.cache
+D:\RFP\SnakeAndLadder\PlayerStartPosition\PlayerStartPosition\obj\Debug\netcoreapp3.1\PlayerStartPosition.AssemblyInfo.cs
+D:\RFP\SnakeAndLadder\PlayerStartPosition\PlayerStartPosition\obj\Debug\netcoreapp3.1\PlayerStartPosition.csproj.CoreCompileInputs.cache
+D:\RFP\SnakeAndLadder\PlayerStartPosition\PlayerStartPosition\obj\Debug\netcoreapp3.1\PlayerStartPosition.dll
+D:\RFP\SnakeAndLadder\PlayerStartPosition\PlayerStartPosition\obj\Debug\netcoreapp3.1\PlayerStartPosition.pdb
+D:\RFP\SnakeAndLadder\PlayerStartPosition\PlayerStartPosition\obj\Debug\netcoreapp3.1\PlayerStartPosition.genruntimeconfig.cache
