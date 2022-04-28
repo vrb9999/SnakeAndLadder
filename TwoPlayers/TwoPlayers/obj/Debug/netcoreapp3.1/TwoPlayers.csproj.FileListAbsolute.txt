@@ -1,0 +1,14 @@
+D:\RFP\SnakeAndLadder\TwoPlayers\TwoPlayers\bin\Debug\netcoreapp3.1\TwoPlayers.exe
+D:\RFP\SnakeAndLadder\TwoPlayers\TwoPlayers\bin\Debug\netcoreapp3.1\TwoPlayers.deps.json
+D:\RFP\SnakeAndLadder\TwoPlayers\TwoPlayers\bin\Debug\netcoreapp3.1\TwoPlayers.runtimeconfig.json
+D:\RFP\SnakeAndLadder\TwoPlayers\TwoPlayers\bin\Debug\netcoreapp3.1\TwoPlayers.runtimeconfig.dev.json
+D:\RFP\SnakeAndLadder\TwoPlayers\TwoPlayers\bin\Debug\netcoreapp3.1\TwoPlayers.dll
+D:\RFP\SnakeAndLadder\TwoPlayers\TwoPlayers\bin\Debug\netcoreapp3.1\TwoPlayers.pdb
+D:\RFP\SnakeAndLadder\TwoPlayers\TwoPlayers\obj\Debug\netcoreapp3.1\TwoPlayers.csproj.AssemblyReference.cache
+D:\RFP\SnakeAndLadder\TwoPlayers\TwoPlayers\obj\Debug\netcoreapp3.1\TwoPlayers.GeneratedMSBuildEditorConfig.editorconfig
+D:\RFP\SnakeAndLadder\TwoPlayers\TwoPlayers\obj\Debug\netcoreapp3.1\TwoPlayers.AssemblyInfoInputs.cache
+D:\RFP\SnakeAndLadder\TwoPlayers\TwoPlayers\obj\Debug\netcoreapp3.1\TwoPlayers.AssemblyInfo.cs
+D:\RFP\SnakeAndLadder\TwoPlayers\TwoPlayers\obj\Debug\netcoreapp3.1\TwoPlayers.csproj.CoreCompileInputs.cache
+D:\RFP\SnakeAndLadder\TwoPlayers\TwoPlayers\obj\Debug\netcoreapp3.1\TwoPlayers.dll
+D:\RFP\SnakeAndLadder\TwoPlayers\TwoPlayers\obj\Debug\netcoreapp3.1\TwoPlayers.pdb
+D:\RFP\SnakeAndLadder\TwoPlayers\TwoPlayers\obj\Debug\netcoreapp3.1\TwoPlayers.genruntimeconfig.cache
