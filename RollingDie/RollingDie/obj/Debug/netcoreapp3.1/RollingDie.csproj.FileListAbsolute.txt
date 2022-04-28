@@ -1,0 +1,14 @@
+D:\RFP\SnakeAndLadder\RollingDie\RollingDie\bin\Debug\netcoreapp3.1\RollingDie.exe
+D:\RFP\SnakeAndLadder\RollingDie\RollingDie\bin\Debug\netcoreapp3.1\RollingDie.deps.json
+D:\RFP\SnakeAndLadder\RollingDie\RollingDie\bin\Debug\netcoreapp3.1\RollingDie.runtimeconfig.json
+D:\RFP\SnakeAndLadder\RollingDie\RollingDie\bin\Debug\netcoreapp3.1\RollingDie.runtimeconfig.dev.json
+D:\RFP\SnakeAndLadder\RollingDie\RollingDie\bin\Debug\netcoreapp3.1\RollingDie.dll
+D:\RFP\SnakeAndLadder\RollingDie\RollingDie\bin\Debug\netcoreapp3.1\RollingDie.pdb
+D:\RFP\SnakeAndLadder\RollingDie\RollingDie\obj\Debug\netcoreapp3.1\RollingDie.GeneratedMSBuildEditorConfig.editorconfig
+D:\RFP\SnakeAndLadder\RollingDie\RollingDie\obj\Debug\netcoreapp3.1\RollingDie.AssemblyInfoInputs.cache
+D:\RFP\SnakeAndLadder\RollingDie\RollingDie\obj\Debug\netcoreapp3.1\RollingDie.AssemblyInfo.cs
+D:\RFP\SnakeAndLadder\RollingDie\RollingDie\obj\Debug\netcoreapp3.1\RollingDie.csproj.CoreCompileInputs.cache
+D:\RFP\SnakeAndLadder\RollingDie\RollingDie\obj\Debug\netcoreapp3.1\RollingDie.dll
+D:\RFP\SnakeAndLadder\RollingDie\RollingDie\obj\Debug\netcoreapp3.1\RollingDie.pdb
+D:\RFP\SnakeAndLadder\RollingDie\RollingDie\obj\Debug\netcoreapp3.1\RollingDie.genruntimeconfig.cache
+D:\RFP\SnakeAndLadder\RollingDie\RollingDie\obj\Debug\netcoreapp3.1\RollingDie.csproj.AssemblyReference.cache
