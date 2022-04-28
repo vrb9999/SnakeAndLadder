@@ -1,0 +1,14 @@
+D:\RFP\SnakeAndLadder\WinningPosition\WinningPosition\bin\Debug\netcoreapp3.1\WinningPosition.exe
+D:\RFP\SnakeAndLadder\WinningPosition\WinningPosition\bin\Debug\netcoreapp3.1\WinningPosition.deps.json
+D:\RFP\SnakeAndLadder\WinningPosition\WinningPosition\bin\Debug\netcoreapp3.1\WinningPosition.runtimeconfig.json
+D:\RFP\SnakeAndLadder\WinningPosition\WinningPosition\bin\Debug\netcoreapp3.1\WinningPosition.runtimeconfig.dev.json
+D:\RFP\SnakeAndLadder\WinningPosition\WinningPosition\bin\Debug\netcoreapp3.1\WinningPosition.dll
+D:\RFP\SnakeAndLadder\WinningPosition\WinningPosition\bin\Debug\netcoreapp3.1\WinningPosition.pdb
+D:\RFP\SnakeAndLadder\WinningPosition\WinningPosition\obj\Debug\netcoreapp3.1\WinningPosition.csproj.AssemblyReference.cache
+D:\RFP\SnakeAndLadder\WinningPosition\WinningPosition\obj\Debug\netcoreapp3.1\WinningPosition.GeneratedMSBuildEditorConfig.editorconfig
+D:\RFP\SnakeAndLadder\WinningPosition\WinningPosition\obj\Debug\netcoreapp3.1\WinningPosition.AssemblyInfoInputs.cache
+D:\RFP\SnakeAndLadder\WinningPosition\WinningPosition\obj\Debug\netcoreapp3.1\WinningPosition.AssemblyInfo.cs
+D:\RFP\SnakeAndLadder\WinningPosition\WinningPosition\obj\Debug\netcoreapp3.1\WinningPosition.csproj.CoreCompileInputs.cache
+D:\RFP\SnakeAndLadder\WinningPosition\WinningPosition\obj\Debug\netcoreapp3.1\WinningPosition.dll
+D:\RFP\SnakeAndLadder\WinningPosition\WinningPosition\obj\Debug\netcoreapp3.1\WinningPosition.pdb
+D:\RFP\SnakeAndLadder\WinningPosition\WinningPosition\obj\Debug\netcoreapp3.1\WinningPosition.genruntimeconfig.cache
