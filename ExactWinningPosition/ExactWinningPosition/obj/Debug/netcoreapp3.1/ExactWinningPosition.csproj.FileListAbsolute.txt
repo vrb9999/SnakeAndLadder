@@ -1,0 +1,13 @@
+D:\RFP\SnakeAndLadder\ExactWinningPosition\ExactWinningPosition\bin\Debug\netcoreapp3.1\ExactWinningPosition.exe
+D:\RFP\SnakeAndLadder\ExactWinningPosition\ExactWinningPosition\bin\Debug\netcoreapp3.1\ExactWinningPosition.deps.json
+D:\RFP\SnakeAndLadder\ExactWinningPosition\ExactWinningPosition\bin\Debug\netcoreapp3.1\ExactWinningPosition.runtimeconfig.json
+D:\RFP\SnakeAndLadder\ExactWinningPosition\ExactWinningPosition\bin\Debug\netcoreapp3.1\ExactWinningPosition.runtimeconfig.dev.json
+D:\RFP\SnakeAndLadder\ExactWinningPosition\ExactWinningPosition\bin\Debug\netcoreapp3.1\ExactWinningPosition.dll
+D:\RFP\SnakeAndLadder\ExactWinningPosition\ExactWinningPosition\bin\Debug\netcoreapp3.1\ExactWinningPosition.pdb
+D:\RFP\SnakeAndLadder\ExactWinningPosition\ExactWinningPosition\obj\Debug\netcoreapp3.1\ExactWinningPosition.GeneratedMSBuildEditorConfig.editorconfig
+D:\RFP\SnakeAndLadder\ExactWinningPosition\ExactWinningPosition\obj\Debug\netcoreapp3.1\ExactWinningPosition.AssemblyInfoInputs.cache
+D:\RFP\SnakeAndLadder\ExactWinningPosition\ExactWinningPosition\obj\Debug\netcoreapp3.1\ExactWinningPosition.AssemblyInfo.cs
+D:\RFP\SnakeAndLadder\ExactWinningPosition\ExactWinningPosition\obj\Debug\netcoreapp3.1\ExactWinningPosition.csproj.CoreCompileInputs.cache
+D:\RFP\SnakeAndLadder\ExactWinningPosition\ExactWinningPosition\obj\Debug\netcoreapp3.1\ExactWinningPosition.dll
+D:\RFP\SnakeAndLadder\ExactWinningPosition\ExactWinningPosition\obj\Debug\netcoreapp3.1\ExactWinningPosition.pdb
+D:\RFP\SnakeAndLadder\ExactWinningPosition\ExactWinningPosition\obj\Debug\netcoreapp3.1\ExactWinningPosition.genruntimeconfig.cache
