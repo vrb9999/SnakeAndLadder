@@ -11,3 +11,4 @@ D:\RFP\SnakeAndLadder\ExactWinningPosition\ExactWinningPosition\obj\Debug\netcor
 D:\RFP\SnakeAndLadder\ExactWinningPosition\ExactWinningPosition\obj\Debug\netcoreapp3.1\ExactWinningPosition.dll
 D:\RFP\SnakeAndLadder\ExactWinningPosition\ExactWinningPosition\obj\Debug\netcoreapp3.1\ExactWinningPosition.pdb
 D:\RFP\SnakeAndLadder\ExactWinningPosition\ExactWinningPosition\obj\Debug\netcoreapp3.1\ExactWinningPosition.genruntimeconfig.cache
+D:\RFP\SnakeAndLadder\ExactWinningPosition\ExactWinningPosition\obj\Debug\netcoreapp3.1\ExactWinningPosition.csproj.AssemblyReference.cache
