@@ -11,3 +11,4 @@ D:\RFP\SnakeAndLadder\NoOfTimesDieRolled\NoOfTimesDieRolled\obj\Debug\netcoreapp
 D:\RFP\SnakeAndLadder\NoOfTimesDieRolled\NoOfTimesDieRolled\obj\Debug\netcoreapp3.1\NoOfTimesDieRolled.dll
 D:\RFP\SnakeAndLadder\NoOfTimesDieRolled\NoOfTimesDieRolled\obj\Debug\netcoreapp3.1\NoOfTimesDieRolled.pdb
 D:\RFP\SnakeAndLadder\NoOfTimesDieRolled\NoOfTimesDieRolled\obj\Debug\netcoreapp3.1\NoOfTimesDieRolled.genruntimeconfig.cache
+D:\RFP\SnakeAndLadder\NoOfTimesDieRolled\NoOfTimesDieRolled\obj\Debug\netcoreapp3.1\NoOfTimesDieRolled.csproj.AssemblyReference.cache
